@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|solutionrelative:Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE036CCD-A9FE-4383-B799-6CD93A0AC720}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\main.cpp",
+              "RelativeDocumentMoniker": "Project3\\main.cpp",
+              "ToolTip": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\main.cpp",
+              "RelativeToolTip": "Project3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-27T04:11:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Item.h",
+              "RelativeDocumentMoniker": "Project3\\Item.h",
+              "ToolTip": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Item.h",
+              "RelativeToolTip": "Project3\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T04:11:30.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Inventory.h",
+              "RelativeDocumentMoniker": "Project3\\Inventory.h",
+              "ToolTip": "C:\\Users\\kim01\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC791\uC5C5\\Project3\\Project3\\Inventory.h",
+              "RelativeToolTip": "Project3\\Inventory.h",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T03:58:04.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
